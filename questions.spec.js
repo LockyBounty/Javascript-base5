@@ -23,8 +23,8 @@ describe('Les chaines de caractères : ', function () {
     });
 
     it('Afficher les 9 premiers caractères', function () {
-        var result = afficher9Car('Je dirait même qu\'ils sont excellent');
-        expect(result).toEqual('Je dirait');
+        var result = afficher9Car('Je dirais même qu\'ils sont excellents');
+        expect(result).toEqual('Je dirais');
     });
 
     it('Mettre en majuscule la chaine', function () {
