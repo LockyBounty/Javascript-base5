@@ -1,7 +1,7 @@
 /**
  * Exercice sur les chaines de caractères.
  * Trouvez la façon de faire la plus optimal.
- * Il peut y avoir plusieur façon de faire.
+ * Il peut y avoir plusieurs façons de faire.
  */
 var tailleString = function (texte) {
 
